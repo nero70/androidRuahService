@@ -1,5 +1,0 @@
-versao
-1.0.0
-
-essa versao ainda esta imcompleta mas ja contem algumas paginas
-funcionando
